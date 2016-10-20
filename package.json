@@ -1,6 +1,6 @@
 {
   "name": "zepto-touch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "module.exports = zepto with touch module",
   "main": "index.js",
   "repository": "https://github.com/Fantasy15/zepto-touch",
@@ -10,6 +10,8 @@
   "keywords": [
     "zepto",
     "touch",
+    "webpack",
+    "require",
     "module",
     "exports"
   ],
